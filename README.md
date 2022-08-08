@@ -1,16 +1,62 @@
-### Hi there 👋
+<!--![MasterHead](https://github.com/Meaha7/Meaha7/blob/75af54d0ae9a1f8d695093f7937b2f2d4fb91611/Banner%20Image.jpeg)-->
 
-<!--
-**akashkarthikm/akashkarthikm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Greetings y'all! You've currently dropped in at AK's github profile</h1>
+<h3 align="center">👩🏾‍💻 An aspiring student who's looking forward to learn new things, face subsequent obstacles and overcome them. 👩🏾‍💻</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Machine+Learning+Enthusiast&center=true&width=500&height=50"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkarthikm&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="akashkarthikm" /> </p>
+
+
+- 🌱 I’m currently learning **Python**
+
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="akashkarthikm" /></a> </p>
+
+
+
+## ✨Linkedin 
+
+<p align="left">
+<a href="https://linkedin.com/in/akashkarthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashkarthik" height="30" width="40" /></a>
+</p>
+
+
+## 🛠 Languages and Tools Familiar With 
+<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="html5" width="40" height="40"/></p>
+
+
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akashkarthikm&theme=algolia" alt="akashkarthikm" /></p>
+
+## 📊 Github Stats
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Ak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akashkarthikm&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkarthikm&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="akashkarthikm" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+
+
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/akashkarthikm"><img alt="Ak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akashkarthikm&custom_title=akashkarthikm's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+<br/>
+
+
+<!--<h3 align="center"> <img  src="https://github.com/Meaha7/Meaha7/blob/output/github-contribution-grid-snake.svg"</h3>-->
+
