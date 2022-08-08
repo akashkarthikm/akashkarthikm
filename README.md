@@ -15,11 +15,11 @@
 -  Approaching Algorithmic problems and solving them using c++.
 -  Exploring machine learning domain and it's applications.
 -  Building stuffs from scratch, and resolving encountered obstacle along the way.
-
+<!--
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="akashkarthikm" /></a> </p>
-
+-->
 <br/>
 
 ## 🛠 Languages and Tools Familiar With 
