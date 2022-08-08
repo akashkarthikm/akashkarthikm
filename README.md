@@ -20,15 +20,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=algolia" alt="akashkarthikm" /></a> </p>
 
-
-
-## ✨Linkedin 
-
-<p align="left">
-<a href="https://linkedin.com/in/akashkarthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashkarthik" height="30" width="40" /></a>
-</p>
-
-
+<br>
 ## 🛠 Languages and Tools Familiar With 
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="html5" width="40" height="40"/></p>
 
@@ -60,5 +52,18 @@
 <br/>
 
 
-Watch my contribution graph get eaten by a snake !🐍
+Watch my contribution graph get eaten by a snake while you're here !🐍
 ![snake gif](https://github.com/akashkarthikm/akashkarthikm/blob/output/github-contribution-grid-snake.svg)
+
+
+
+<br/>
+
+## Contact details:  
+
+<p align="left"> 
+<a href="https://linkedin.com/in/akashkarthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashkarthik" height="30" width="40" /></a> <a href="https://leetcode.com/akashkarthik/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="akashkarthik" height="30" width="40" /></a>
+<a href="https://www.instagram.com/karthik.ig/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="akashkarthik" height="30" width="40" /></a>
+</p>
+
+
