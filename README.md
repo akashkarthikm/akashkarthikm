@@ -1,5 +1,5 @@
 
-<h1 align="center">Greetings y'all! You've currently dropped in at AK's github profile</h1>
+<h1 align="center">Greetings y'all! This is Akash Karthik M</h1>
 <h3 align="center">👩🏾‍💻 An aspiring student who's looking forward to learn new things. 👩🏾‍💻</h3>
 
 <p align="center">
@@ -60,10 +60,11 @@ Watch my contribution graph get eaten by a snake while you're here !🐍
 
 <br/>
 
-## Contact details:  
+## Connect with me:  
 
 <p align="left"> 
-<a href="https://linkedin.com/in/akashkarthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashkarthik" height="30" width="40" /></a> <a href="https://leetcode.com/akashkarthik/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="akashkarthik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akashkarthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashkarthik" height="30" width="40" /></a> 
+<!--<a href="https://leetcode.com/akashkarthik/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="akashkarthik" height="30" width="40" /></a> -->
 <a href="https://www.instagram.com/karthik.ig/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="akashkarthik" height="30" width="40" /></a>
 </p>
 
