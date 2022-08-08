@@ -53,7 +53,7 @@
 <br/>
 
 
-Watch my contribution graph get eaten by a snake while you're here !🐍
+Watch my contribution graph get eaten by a snake while you're here 🐍 !  , coz why not ...🚶 
 ![snake gif](https://github.com/akashkarthikm/akashkarthikm/blob/output/github-contribution-grid-snake.svg)
 
 
