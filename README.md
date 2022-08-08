@@ -1,7 +1,6 @@
-<!--![MasterHead](https://github.com/Meaha7/Meaha7/blob/75af54d0ae9a1f8d695093f7937b2f2d4fb91611/Banner%20Image.jpeg)-->
 
 <h1 align="center">Greetings y'all! You've currently dropped in at AK's github profile</h1>
-<h3 align="center">👩🏾‍💻 An aspiring student who's looking forward to learn new things, face subsequent obstacles and overcome them. 👩🏾‍💻</h3>
+<h3 align="center">👩🏾‍💻 An aspiring student who's looking forward to learn new things. 👩🏾‍💻</h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Machine+Learning+Enthusiast&center=true&width=500&height=50"></a>
@@ -12,7 +11,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashkarthikm&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="akashkarthikm" /> </p>
 
 
-- 🌱 I’m currently learning **Python**
+-  **Interests include:**
+-  Approaching Algorithmic problems and solving them using c++.
+-  Exploring machine learning domain and it's applications.
+-  Building stuffs from scratch, and resolving encountered obstacle along the way.
 
 ## :trophy: Git profile Trophies
 
@@ -58,5 +60,5 @@
 <br/>
 
 
-<!--<h3 align="center"> <img  src="https://github.com/Meaha7/Meaha7/blob/output/github-contribution-grid-snake.svg"</h3>-->
-
+Watch my contribution graph get eaten by a snake !🐍
+![snake gif](https://github.com/akashkarthikm/akashkarthikm/blob/output/github-contribution-grid-snake.svg)
